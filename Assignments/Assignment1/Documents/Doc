@@ -1,1 +1,26 @@
 Upload your assignment here
+
+Fill in the blanks:
+
+
+1. A software design methodology is composed of the knowledge and understanding.
+
+2. Independent software packages don’t exist; they run on an equipment (hardware).
+
+3. Final load testing of the complete software-hardware package to see that the program meets all of its design requirements.
+
+Multiple Choice Question:
+
+1. Which of them are parts of feedback design?
+a) area of language design
+b) area of logic design
+c) area of complex design
+d) area of system design
+
+Ans: a,b,d
+
+2. Select the fundamental design concepts which are essential to a maintainable system:
+a) Modularity
+b) Encapsulation
+c) Inheritance
+d) Scalability
