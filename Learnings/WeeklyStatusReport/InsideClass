@@ -1,5 +1,6 @@
 Weekly report Software Engineering
 Inside the class:
+
 Week-1
 
 1- Introduction of the Software Engieering and its course structure.
@@ -34,4 +35,22 @@ Week-5
 3- There is a high amount of risk involved with agile life cycles. But there is high-value being delivered in the end.
 4- Some examples of Software Engineering in big companies were taken in order to make us understand how software engineering in reality is like.
 
+Week6
+
+1- We had a good discussion on the Software design which was taught in the class.
+2- Design involves analysis,synthesis and evaluation of goals,constraints,assumptions,decision and ideas
+3- We came to know that code is also a part of good design but it comes at the lowest level of granualarity.
+4- Sir discussed our project with whole class and this helped us in analyzing our project even more. 
+5- The Software design represents an abstracted form of the plan and modules required.
+6- In order to make a a good project design, we should follow these order
+   Goals --> Constraints --> Assumptions --> Decisions --> Ideas
+
+Week 7
+ 
+1- We had discussed few things about UML.
+2- UI/UX design is as important as the backend functionality of the software. And it is very important things for making any software project.
+3- We came to know that a person who designs/tests the usability of interfaces is known as a Usability engineer.
+4-  We should ensure that the design modules should support maintenance and verification.
+5- A perfect design is a combination of value and experience which makes quality based software.
+6  We should also ensure in some ways to make a better UI which can make the software reliable and easy to use for all the user of different categories.
 
